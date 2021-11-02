@@ -1,20 +1,5 @@
-# news
+# News API
 
-## Project setup
-```
-npm install
-```
+This is a small project made with Vue.js, Vue Router, Axios and SCSS.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
-# news-API
+I used the [News API](https://newsapi.org/s/france-news-api) for the data.
